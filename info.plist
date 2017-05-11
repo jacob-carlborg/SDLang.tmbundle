@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>contactEmailRot13</key>
+	<string>znqf379@tznvy.pbz</string>
+	<key>contactName</key>
+	<string>Sönke Ludwig</string>
+	<key>description</key>
+	<string>Syntax highlight for the &lt;a href="https://sdlang.org"&gt;SDLang - Simple Declarative Language&lt;/a&gt;</string>
+	<key>name</key>
+	<string>SDLang</string>
+	<key>uuid</key>
+	<string>BCE57B43-BD8E-4093-B882-A1C9CA90D2F4</string>
+</dict>
+</plist>
